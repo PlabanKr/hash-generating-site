@@ -1,0 +1,39 @@
+.hashBody {
+  width: 40vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.hashForm {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.algorithm {
+  margin: 1rem 0rem;
+}
+
+.input {
+  margin: 0.5rem 0rem;
+}
+
+.genBtn {
+  margin: 0.5rem 0rem;
+}
+
+.blockquote {
+  padding: 1rem;
+  margin: 0.5rem 0rem;
+  min-height: 2.5rem;
+  width: 100%;
+  background-color: #c0c0c0;
+  border-radius: 5px;
+  overflow-wrap: break-word;
+}
+
+.author {
+  margin-top: 5rem;
+  text-align: center;
+}

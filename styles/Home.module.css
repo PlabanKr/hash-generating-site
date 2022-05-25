@@ -1,0 +1,8 @@
+.mainBody {
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 4rem;
+}
