@@ -47,7 +47,7 @@ const Hash = () => {
       <div className={styles.author}>
         <p>
           Made By <br />
-          <a href="https://github.com/PlabanKr" target="_blank">
+          <a href="https://github.com/PlabanKr" rel="noreferrer" target="_blank">
             <strong>Plaban Kumar Mondal</strong>
           </a>
         </p>
